@@ -1,0 +1,8 @@
+cx_Logging==3.2.0
+lief==0.14.1
+pillow==10.4.0
+PyGetWindow==0.0.9
+pynput==1.7.7
+PyRect==0.2.0
+pystray==0.19.5
+six==1.16.0
